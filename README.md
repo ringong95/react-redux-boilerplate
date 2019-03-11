@@ -17,6 +17,8 @@ To check your current NPM version open up a console and type `npm -v`
 
 ### Installing
 
+run `git clone --depth 1 https://github.com/ringong95/react-redux-boilerplate <Your project name here>`  to clone a shallow copy of my repo
+
 Step One 
 run ` yarn ` or `npm install `
 
